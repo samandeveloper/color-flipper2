@@ -1,1 +1,1 @@
-# color-flipper2
+# javascript-color-change-app
